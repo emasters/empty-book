@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifer="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid"/>
+    <dc:title>Computer-Aided Exercises in Civil Procedure</dc:title>
+  </metadata>
+  <manifest><item href="computer-aided-exercises-in-civil-procedure-371b5098-d5a9-4829-9530-03e8b1ac5b25-nav.html" id="computer-aided-exercises-in-civil-procedure-371b5098-d5a9-4829-9530-03e8b1ac5b25-nav.html" media-type="application/xhtml+xml" properties="nav"/></manifest>
+  <spine/>
+</package>
